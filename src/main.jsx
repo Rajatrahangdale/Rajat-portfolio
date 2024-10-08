@@ -2,20 +2,14 @@
  * @copyright 2024 Rajatrahangdale
  * @license Apache-2.0
  */
-
-/**
- * Node modules
- */
+//Node modules
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-/**
- * Components
- */
+//Components
 import App from "./App.jsx";
-/**
- * CSS link
- */
+// CSS link
 import "./index.css";
+import "lenis/dist/lenis.css";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
