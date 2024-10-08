@@ -6,13 +6,19 @@
 /**
  * Components
  */
+import About from "./Components/About";
 import Header from "./Components/Header";
+import Hero from "./Components/Hero";
 
 const App = () => {
   return (
-    <div>
+    <>
       <Header />
-    </div>
+      <main>
+        <Hero />
+        <About />
+      </main>
+    </>
   );
 };
 
