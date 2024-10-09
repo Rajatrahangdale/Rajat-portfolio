@@ -42,7 +42,7 @@ const socials = [
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/rajat__17",
+    href: "https://www.instagram.com/rajat__17_",
   },
   {
     label: "CodePen",

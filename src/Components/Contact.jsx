@@ -58,7 +58,7 @@ const socialLinks = [
     alt: "Twitter X",
   },
   {
-    href: "https://www.instagram.com/rajat__17",
+    href: "https://www.instagram.com/rajat__17_",
     icon: (
       <svg
         width="25"
