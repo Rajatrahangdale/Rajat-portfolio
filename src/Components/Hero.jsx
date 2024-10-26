@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="container lg:grid lg:grid-cols-2 lg:items-center lg:gap-10">
         <div>
           <div className="flex items-center gap-3">
-            <figure className="img-box w-9 h-9 rounded-lg">
+            {/* <figure className="img-box w-9 h-9 rounded-lg">
               <img
                 src="/images/avatar-1.jpg"
                 width={40}
@@ -19,7 +19,7 @@ const Hero = () => {
                 alt="Rajat Rahangdale portait"
                 className="image-cover"
               />
-            </figure>
+            </figure> */}
             <div className="flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide">
               <span className="relative w-2 h-2 rounded-full bg-emerald-400">
                 <span className="absolute inset-0 rounded-full bg-emerald-400 animate-ping"></span>
